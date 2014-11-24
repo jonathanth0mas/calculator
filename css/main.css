@@ -1,0 +1,9 @@
+#mensBox {
+	border-color: blue;
+	border: solid 3px;
+}
+
+#womensBox {
+	border-color: pink;
+	border: solid 3px;
+}
