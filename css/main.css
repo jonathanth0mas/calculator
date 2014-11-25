@@ -1,9 +1,12 @@
 #mensBox {
 	border-color: blue;
-	border: solid 3px;
+	border: 3px;
 }
 
 #womensBox {
 	border-color: pink;
-	border: solid 3px;
+	border: 3px;
 }
+
+
+
